@@ -11,8 +11,8 @@ console.log(fruits);
 var animals = ['Monkey', 'Horse', 'Dog'];
 console.log(animals);
 
-animals.unshift('Cat')
+animals.unshift('Cat');
 console.log(animals);
 
-animals.shift()
+animals.shift();
 console.log(animals);
